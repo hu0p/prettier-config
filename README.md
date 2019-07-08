@@ -13,6 +13,6 @@
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@hu0p/prettier-config"
 }
 ```
