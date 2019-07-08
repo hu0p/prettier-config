@@ -1,0 +1,13 @@
+{
+  "name": "@hu0p/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hu0p/prettier-config.git"
+  },
+  "author": "Logan Houp <houplogan@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/hu0p/prettier-config#readme"
+}
